@@ -1,0 +1,29 @@
+body {
+    font-family: Dosis;
+    
+}
+
+
+.tabla {
+    background:#471437;
+    margin: auto;
+    border:1px solid #DDDDDD;
+
+}
+
+.tabla, th {
+    border:5px;
+    border-color: #DDDDDD;
+    color: #DDDDDD;
+    width: 600px;
+    border:1px solid #DDDDDD;
+
+}
+
+#jackson {
+    background:#FF9249;
+}
+
+#smith {
+    background-image: url(https://www.directgardening.com/724-large_default/blue-festuca-grass.jpg);
+}

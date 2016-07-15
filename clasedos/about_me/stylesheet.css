@@ -1,0 +1,62 @@
+body {
+    background-image: url(http://cdn.pcwallart.com/images/purple-color-gradient-wallpaper-1.jpg);
+}
+
+.header {
+    background:#FFBB6C;
+    height:200px;
+    width: 900px;
+    margin: auto;
+}
+
+.header p{
+    padding-top: 60px;
+    
+}
+
+#header_text {
+    color: #D47C43;
+    font-family: Arial;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 800;
+}
+
+#header_parrafo{
+    color: #262436;
+    font-family: Arial;
+    font-size: 16px;
+    text-align: center; 
+    font-weight: 200;
+    margin-top: -90px;
+}
+
+
+.header2 {
+    background:#FF7349;
+    height:200px;
+    width: 100%;
+    margin: auto;
+}
+
+.header2 p {
+margin: center;
+}
+
+.hover_test:hover{
+    font-size: 20px;
+    text-decoration:none;
+}
+
+a:visited{
+    background-color:black;
+    color: #fff;
+}
+
+#circulo {
+    margin: 10px 0 0 0;
+    height: 100px;
+    width: 100px;
+    border-radius: 70px;
+    background:#fff;
+}
